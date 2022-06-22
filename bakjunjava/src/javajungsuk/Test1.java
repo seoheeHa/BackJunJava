@@ -22,6 +22,5 @@ public class Test1 {
                 n3++; // 한 사이클동안 몇번 반복이 주어지는 지 체크한다.
             }
             System.out.println(n3);
-    }
-}
+    }}
 
