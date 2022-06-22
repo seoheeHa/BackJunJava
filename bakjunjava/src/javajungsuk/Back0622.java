@@ -1,6 +1,7 @@
 package javajungsuk;
 
 //2022-06-22 백준 알고리즘 
+
 import java.util.Arrays;
 import java.util.Scanner;
 
