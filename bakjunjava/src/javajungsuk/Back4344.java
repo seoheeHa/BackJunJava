@@ -27,7 +27,7 @@ public class Back4344 {
 				  // 성적을 입력받기 
 				  arr[j] = score;
 				  // 배열에 입력받은 성적 저장 
-				  sum += score;
+				  sum += arr[j];
 				  // 성적의 총 합계 저장 
 			  }
 			  
@@ -42,7 +42,6 @@ public class Back4344 {
 					  count++;
 					  // 평균넘는 학생의 수를 증가시킨다.
 				  }
-				  
 			  }
 			  
 			  System.out.printf("%.3f%%\n" + (count/n) *100);
@@ -55,4 +54,5 @@ public class Back4344 {
 		
 	}
 
-}
+}		  
+		
