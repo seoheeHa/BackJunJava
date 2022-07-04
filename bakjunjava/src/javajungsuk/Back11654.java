@@ -16,6 +16,8 @@ public class Back11654 {
 		//  그 값을 int형 변수에 저장한다.
 		// 문자의 값을 int로 변환할 시 아스키 코드로 출력된다.
 		System.out.println(result);
+		// result값을 출력한다. 
+		
 		
 		}
 	}
